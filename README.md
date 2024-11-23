@@ -4,6 +4,9 @@ Free financial data now! Use automatic downloader to download Choice data. For r
 # Choice version
 We personally recommend to use `6.x` versions. We strongly recommend to replace the resources of screenshots of buttons by the one shown on your device.
 
+# We provide a free Excel bypassing tool
+Always opening an excel when files are saved? Let's use `EmptyPP.exe` to trick it!
+
 # We provide free data pre-processing tools
 We provide a `R` processing tools that can automatically clear and sort the data.
 
