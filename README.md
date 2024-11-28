@@ -25,3 +25,47 @@ Contributor: dof-studio
 ```
 
 # How to use it
+1. Set up the Python environment and install the following dependency.
+```text
+xlrd
+shutil 
+datetime
+pyautogui
+pyperclip
+```
+
+2. Clone our repository.
+```bash
+git clone https://github.com/dof-studio/freechoice
+```
+
+3. Extract `src`, `res`, `utils` folders and merge all files into one single folder, which contains all of the:
+```text
+i)   resources files with suffix '*.png'
+ii)  source code files with suffix '*.py'
+iii) utility tools with suffix '*.cpp', '*.py', '*.exe'
+```
+
+4. [Optional] Do your screenshots and replace all of the resource files by your Choice UI.
+```text
+Refer to res\resource_list\list.csv to see what screenshots do we use
+```
+
+5. Run the main `.bat` file to start
+```bash
+cmd freechoice.bat
+```
+
+# Future TODO
+```text
+Just like you all. 
+I am tired of writing `code` in Excel like this script.
+DOF Studio and my partner are working on developping an assembly-like srcipt language that can replace the tedious Excel programming.
+Maybe Next version.
+```
+
+# Happy to see bug reports
+We admit that EastMoney is continuously improving, in terms of trying to avoid us to use automatic tools to fetch data, their product. If you see this does not work on your computer becase of `UI update`, `logic update`, `more anti-autopygui enhancement`, and so, welcome to report a bug by opening an `issue`. 
+
+
+Let's fight for freechoice!
